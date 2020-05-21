@@ -17,6 +17,11 @@ namespace Lp2SoftModel
 			Nombre = nombre;
 		}
 
+		public Area(string nombre)
+		{
+			Nombre = nombre;
+		}
+
 		public Area()
 		{
 		}

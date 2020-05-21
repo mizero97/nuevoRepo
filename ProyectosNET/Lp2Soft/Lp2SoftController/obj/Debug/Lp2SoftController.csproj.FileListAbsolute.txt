@@ -1,0 +1,10 @@
+C:\Users\Miguel\Desktop\LP2\REPOSITORIO_C#\ProyectosNET\Lp2Soft\Lp2SoftController\obj\Debug\Lp2SoftController.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\LP2\REPOSITORIO_C#\ProyectosNET\Lp2Soft\Lp2SoftController\obj\Debug\Lp2SoftController.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\LP2\REPOSITORIO_C#\ProyectosNET\Lp2Soft\Lp2SoftController\bin\Debug\Lp2SoftController.dll
+C:\Users\Miguel\Desktop\LP2\REPOSITORIO_C#\ProyectosNET\Lp2Soft\Lp2SoftController\bin\Debug\Lp2SoftController.pdb
+C:\Users\Miguel\Desktop\LP2\REPOSITORIO_C#\ProyectosNET\Lp2Soft\Lp2SoftController\bin\Debug\Lp2SoftModel.dll
+C:\Users\Miguel\Desktop\LP2\REPOSITORIO_C#\ProyectosNET\Lp2Soft\Lp2SoftController\bin\Debug\MySql.Data.dll
+C:\Users\Miguel\Desktop\LP2\REPOSITORIO_C#\ProyectosNET\Lp2Soft\Lp2SoftController\bin\Debug\Lp2SoftModel.pdb
+C:\Users\Miguel\Desktop\LP2\REPOSITORIO_C#\ProyectosNET\Lp2Soft\Lp2SoftController\obj\Debug\Lp2SoftController.csproj.CopyComplete
+C:\Users\Miguel\Desktop\LP2\REPOSITORIO_C#\ProyectosNET\Lp2Soft\Lp2SoftController\obj\Debug\Lp2SoftController.dll
+C:\Users\Miguel\Desktop\LP2\REPOSITORIO_C#\ProyectosNET\Lp2Soft\Lp2SoftController\obj\Debug\Lp2SoftController.pdb

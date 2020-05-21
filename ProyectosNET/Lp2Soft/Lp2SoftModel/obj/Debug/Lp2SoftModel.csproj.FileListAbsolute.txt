@@ -1,0 +1,6 @@
+C:\Users\Miguel\Desktop\LP2\REPOSITORIO_C#\ProyectosNET\Lp2Soft\Lp2SoftModel\bin\Debug\Lp2SoftModel.dll
+C:\Users\Miguel\Desktop\LP2\REPOSITORIO_C#\ProyectosNET\Lp2Soft\Lp2SoftModel\bin\Debug\Lp2SoftModel.pdb
+C:\Users\Miguel\Desktop\LP2\REPOSITORIO_C#\ProyectosNET\Lp2Soft\Lp2SoftModel\obj\Debug\Lp2SoftModel.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\LP2\REPOSITORIO_C#\ProyectosNET\Lp2Soft\Lp2SoftModel\obj\Debug\Lp2SoftModel.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\LP2\REPOSITORIO_C#\ProyectosNET\Lp2Soft\Lp2SoftModel\obj\Debug\Lp2SoftModel.dll
+C:\Users\Miguel\Desktop\LP2\REPOSITORIO_C#\ProyectosNET\Lp2Soft\Lp2SoftModel\obj\Debug\Lp2SoftModel.pdb
